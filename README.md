@@ -6,7 +6,7 @@
 <table>
   <thead>
        <tr class="table heading">
-        <th>linkedin <img src="https://icon-icons.com/icon/facebook/59205" alt=" facebook icon" width="10px"></th>
+        <th>linkedin <img src="https://icon-icons.com/icon/facebook/59205" width="10px"></th>
         <th>Twitter</th>
         <th>Facebook</th>
         <th>INSTAGRAM</th>
