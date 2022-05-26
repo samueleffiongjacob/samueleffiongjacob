@@ -7,16 +7,14 @@
   <thead>
        <tr class="table heading">
         <th rowspan="2">S/N</th>
-        <th rowspan="2">Students</th>
+        <th>linkedin</th>
+        <th>Twitter</th>
+        <th>Facebook</th>
+        <th>INSTAGRAM</th>
+        <th>INSTAGRAM</th>
+        <th>INSTAGRAM</th>
+        <th>EMAIL</th>
       </tr>
-      
-      <th>linkedin</th>
-      <th>Twitter</th>
-      <th>Facebook</th>
-      <th>INSTAGRAM</th>
-      <th>INSTAGRAM</th>
-      <th>INSTAGRAM</th>
-      <th>EMAIL</th>
   </thead>
   <tbody>
     <td><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/">linkedin</td>
