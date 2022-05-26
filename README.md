@@ -1,14 +1,23 @@
 - 👋 Hi, I’m @samueleffiongjacob
 - 👀 I’m interested in developing new Technologies
-- 🌱 I’m A full stack engineer
+- 🌱 I’m A full stack engineer |DEvOps check my git profile for more
 - 💞️ I’m looking to collaborate with u on your project ...
 - EMAIL 
 - <ul>
-  <li><p><a href="samueleffiongjacob@gmail.com"></p></li>
-  <li><p><a href=" samueleffiong685@gmail.com">![image](https://user-images.githubusercontent.com/101840641/170562272-bdb1314a-fe48-463a-83eb-f2fee08a6233.png)SAMUEL EFFIONG</p></li>
+  <li><p><a href="samueleffiongjacob@gmail.com">SAMUEL effiong</p></li>
+  <li><p><a href=" samueleffiong685@gmail.com">SAMUEL EFFIONG</p></li>
 - </ul>
-- 📫 How to reach me Email:  or 
-- follow me on twitter @samueleffiong_  or linkedin https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/ ...
+
+FOLLOW ME ON social media
+
+<ul>
+  <li><p><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/">linkedin </p></li>
+  <li><p><a href="https://twitter.com/samueleffiong_">Twitter</p></li>
+  <li><p><a href="https://www.facebook.com/samueleffiong.jacob/">Facebook</p></li>
+  <li><p><a href="https://www.instagram.com/effiongsamuel/">INSTAGRAM</p></li>
+  <li><p><a href="https://www.instagram.com/samueleffiong_official/">INSTAGRAM</p></li>
+  <li><p><a href="https://www.instagram.com/samueleffiong0/">INSTAGRAM</p></li>
+</ul>
 
 <!---
 samueleffiongjacob/samueleffiongjacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
