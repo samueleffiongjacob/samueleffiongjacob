@@ -6,7 +6,6 @@
 <table>
   <thead>
        <tr class="table heading">
-        <th rowspan="2">S/N</th>
         <th>linkedin</th>
         <th>Twitter</th>
         <th>Facebook</th>
@@ -14,6 +13,7 @@
         <th>INSTAGRAM</th>
         <th>INSTAGRAM</th>
         <th>EMAIL</th>
+         <th>EMAIL</th>
       </tr>
   </thead>
   <tbody>
