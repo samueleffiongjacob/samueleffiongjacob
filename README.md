@@ -5,7 +5,7 @@
 - EMAIL 
 - <ul>
   <li><p><a href="samueleffiongjacob@gmail.com"></p></li>
-  <li><p><a href=" samueleffiong685@gmail.com">![message](https://user-images.githubusercontent.com/101840641/170561109-24306119-fa1d-48ea-80b0-347fa738515a.gif)SAMUEL EFFIONG</p></li>
+  <li><p><a href=" samueleffiong685@gmail.com">![image](https://user-images.githubusercontent.com/101840641/170562272-bdb1314a-fe48-463a-83eb-f2fee08a6233.png)SAMUEL EFFIONG</p></li>
 - </ul>
 - 📫 How to reach me Email:  or 
 - follow me on twitter @samueleffiong_  or linkedin https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/ ...
