@@ -7,7 +7,7 @@
   <li><p><a href="samueleffiongjacob@gmail.com">SAMUEL effiong</p></li>
   <li><p><a href=" samueleffiong685@gmail.com">SAMUEL EFFIONG</p></li>
 - </ul>
--  FOLLOW ME ON social media
+                         // FOLLOW ME ON social media
 <ul>
   <li><p><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/">linkedin </p></li>
   <li><p><a href="https://twitter.com/samueleffiong_">Twitter</p></li>
