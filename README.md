@@ -7,7 +7,8 @@
 -  2.samueleffiongjacob@gmail.com
 -  follow me social media handles.
 - <ul>
-  <li><p><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/">linkedin </p> <p><a href="https://twitter.com/samueleffiong_">Twitter</p></li>
+  <li><p><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/">linkedin </p>
+  <li><p><a href="https://twitter.com/samueleffiong_">Twitter</p></li>
   <li><p><a href="https://www.facebook.com/samueleffiong.jacob/">Facebook</p></li>
   <li><p><a href="https://www.instagram.com/effiongsamuel/">INSTAGRAM</p></li>
   <li><p><a href="https://www.instagram.com/samueleffiong_official/">INSTAGRAM</p></li>
