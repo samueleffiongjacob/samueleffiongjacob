@@ -8,7 +8,7 @@
 <table>
   <thead>
        <tr class="table heading">
-        <th>linkedin <img src="" width="10px"></th>
+        <th>linkedin</th>
         <th>Twitter</th>
         <th>Facebook</th>
         <th>INSTAGRAM</th>
