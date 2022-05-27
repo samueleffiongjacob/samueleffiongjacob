@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samueleffiongjacob
 - 👀 I’m interested in developing new Technologies
-- 🌱 I’m A full stack engineer |DEvOps check my git profile for more
+- 🌱 I’m A DevOps & FullStack Software Engineer | Network Engineer | Data Scientist, Analyst & Researcher | Movie Actor | Sound, Media & Product Engineer | ICT consultant.
 - 💞️ I’m looking to collaborate with u on your project ...
 
 <table>
