@@ -29,8 +29,6 @@
         <td>samueleffiong685@gmail.com</td>
   </tbody>
 </table>
-
-<footer>&#9400;  Samuel Effiong  2022</footer>
 <!---
 samueleffiongjacob/samueleffiongjacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
