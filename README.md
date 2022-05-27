@@ -17,12 +17,12 @@
       </tr>
   </thead>
   <tbody>
-    <td><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/">linkedin</td>
-        <td><a href="https://twitter.com/samueleffiong_">Twitter</td>
-        <td><a href="https://www.facebook.com/samueleffiong.jacob/">Facebook</td>
-        <td><a href="https://www.instagram.com/effiongsamuel/">INSTAGRAM</td>
-        <td><a href="https://www.instagram.com/samueleffiong_official/">INSTAGRAM</td>
-        <td><a href="https://www.instagram.com/samueleffiong0/">INSTAGRAM</td>
+    <td><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/">Samuel Effiong Jacob</td>
+        <td><a href="https://twitter.com/samueleffiong_">samueleffiong_</td>
+        <td><a href="https://www.facebook.com/samueleffiong.jacob/">Samuel Effiong</td>
+        <td><a href="https://www.instagram.com/effiongsamuel/">effiongsamuel</td>
+        <td><a href="https://www.instagram.com/samueleffiong_official/">samueleffiong_official</td>
+        <td><a href="https://www.instagram.com/samueleffiong0/">samueleffiong0</td>
         <td>samueleffiongjacob@gmail.com</td>
         <td>samueleffiong685@gmail.com</td>
   </tbody>
