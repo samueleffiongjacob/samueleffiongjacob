@@ -16,6 +16,7 @@
         <th>INSTAGRAM</th>
         <th>EMAIL</th>
          <th>EMAIL</th>
+         <th>OLD TWITTER</TH>
       </tr>
   </thead>
   <tbody>
@@ -27,6 +28,9 @@
         <td><a href="https://www.instagram.com/samueleffiong0/">samueleffiong0</td>
         <td>samueleffiongjacob@gmail.com</td>
         <td>samueleffiong685@gmail.com</td>
+        // OLD TWITTER ACCOUNT WITH GMAIL samueleffiongjacob@gmail.com
+        <td><a href="https://twitter.com/SamuelEFFIONG01">SamuelEFFIONG01</td>
+      
   </tbody>
 </table>
 <!---
