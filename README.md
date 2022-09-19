@@ -10,11 +10,11 @@
   <thead>
        <tr class="table heading">
         <th style="width: 35%"><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/"><img src="samueleffiong  linkind.png" alt="samueleffiong linkind" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong0/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
         <th style="width: 35%"><a href="https://twitter.com/samueleffiong_"><img src="samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong_official/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
         <th style="width: 35%"><a href="https://www.facebook.com/samueleffiong.jacob/"><img src="samueleffiong facebook.png" alt="samueleffiong facebook" style="height:100%;width: 100%"></a></th>
         <th style="width: 35%"><a href="https://www.instagram.com/effiongsamuel/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
-        <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong_official/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
-        <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong0/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
       </tr>
   </thead>
 </table>
