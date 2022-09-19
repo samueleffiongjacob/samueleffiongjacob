@@ -6,7 +6,7 @@
 - Email me also below
 
 <table style="width:100%;height: 100%">
-  <thead style="width:100%;height: 100%">
+  <thead>
        <tr class="table heading">
         <th style="width: 35%"><img src="samueleffiong  linkind.png" alt="samueleffiong linkind" style="height:100%;width: 100%"></th>
         <th style="width: 35%"><img src="samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%"></th>
