@@ -8,7 +8,7 @@
 <table>
   <thead>
        <tr class="table heading">
-        <th><img src="samueleffiong  linkind" alt="samueleffiong  linkind"></th>
+        <th><img src="samueleffiong  linkind" alt="samueleffiong  linkind" style="width:500px;height:600px;></th>
         <th><img src="samueleffiong twitter" alt="samueleffiong twitter"></th>
         <th><img src="samueleffiong facebook" alt="samueleffiong facebook"></th>
         <th><img src="samueleffiong  instergram" alt="samueleffiong  instergram"></th>
@@ -28,7 +28,6 @@
         <td><a href="https://www.instagram.com/samueleffiong0/">samueleffiong0</td>
         <td>samueleffiongjacob@gmail.com</td>
         <td>samueleffiong685@gmail.com</td>
-        // OLD TWITTER ACCOUNT WITH GMAIL samueleffiongjacob@gmail.com
         <td><a href="https://twitter.com/SamuelEFFIONG01">SamuelEFFIONG01</td>
       
   </tbody>
@@ -37,4 +36,5 @@
 <!---
 samueleffiongjacob/samueleffiongjacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+// OLD TWITTER ACCOUNT WITH GMAIL samueleffiongjacob@gmail.com
 --->
