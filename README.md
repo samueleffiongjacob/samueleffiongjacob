@@ -2,8 +2,6 @@
 - 👀 I’m interested in developing new Technologies
 - 🌱 I’m A DevOps & FullStack Software Engineer | Network Engineer | Data Scientist, Analyst & Researcher | Movie Actor | Sound, Media & Product Engineer | ICT consultant.
 - 💞️ I’m looking to collaborate with u on your project ...
-- You can follow me on any of my social media handles below
-- Email me also below
 
 <h1 style="text-align: center;"> FOLLOW ME OR CHAT ME UP ON MY SOCIAL MEDIA  </h1>
 <table style="width:100%;height: 100%">
