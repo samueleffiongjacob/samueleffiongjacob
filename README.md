@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="samueleffiong  github.png" alt="samueleffiong github" style="height:100%;width: 100%"></a>
+- 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="samueleffiong  github.png" alt="samueleffiong github" style="height:10%;width: 20%"></a>
 - 👀 I’m interested in developing new Technologies
 - 🌱 I’m A DevOps & FullStack Software Engineer | Network Engineer | Data Scientist, Analyst & Researcher | Movie Actor | Sound, Media & Product Engineer | ICT consultant.
 - 💞️ I’m looking to collaborate with u on your project ...
