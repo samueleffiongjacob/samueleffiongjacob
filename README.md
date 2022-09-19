@@ -15,7 +15,6 @@
         <th style="width: 35%"><a href="https://www.instagram.com/effiongsamuel/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
         <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong_official/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
         <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong0/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
-         <th style="width: 35%"><a href="https://twitter.com/SamuelEFFIONG01"><img src="samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%"></a> ^OLD TWITTER ~SUPPENDED ACCOUNT</th>
       </tr>
   </thead>
 </table>
@@ -35,4 +34,5 @@
 samueleffiongjacob/samueleffiongjacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 // OLD TWITTER ACCOUNT WITH GMAIL samueleffiongjacob@gmail.com
+<th style="width: 35%"><a href="https://twitter.com/SamuelEFFIONG01"><img src="samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%"></a> ^OLD TWITTER ~SUPPENDED ACCOUNT</th>
 --->
