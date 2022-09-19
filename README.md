@@ -8,16 +8,26 @@
 <table style="width:100%;height: 100%">
   <thead style="width:100%;height: 100%">
        <tr class="table heading">
-        <th style="width: 35%"><img src="samueleffiong  linkind.png"></th>
+
+        <th style="width: 35%"><img src="samueleffiong  linkind.png" style="height:100%;width: 100%"></th>
+
         <th style="width: 35%"><img src="samueleffiong  twitter.png" style="height:100%;width: 100%"></th>
-        <th style="width: 35%"><img src="samueleffiong facebook" alt="samueleffiong facebook" style="height:100%;width: 100%"></th>
-        <th style="width: 35%"><img src="samueleffiong  instergram" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
-        <th style="width: 35%"><img src="samueleffiong  instergram" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
-        <th style="width: 35%"><img src="samueleffiong  instergram" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
-        <th style="width: 35%"><img src="samueleffiong email" alt="samueleffiong email" style="height:100%;width: 100%"></th>
-         <th style="width: 35%"><img src="samueleffiong email" alt="samueleffiong email" style="height:100%;width: 100%"></th>
-         <th style="width: 35%"><img src="samueleffiong twitter" alt="samueleffiong twitter" style="height:100%;width: 100%">OLD TWITTER</TH>
+
+        <th style="width: 35%"><img src="samueleffiong facebook.png" alt="samueleffiong facebook" style="height:100%;width: 100%"></th>
+
+        <th style="width: 35%"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
+
+        <th style="width: 35%"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
+
+        <th style="width: 35%"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
+
+        <th style="width: 35%"><img src="samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
+
+         <th style="width: 35%"><img src="samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
+
+         <th style="width: 35%"><img src="samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%">OLD TWITTER</th>
       </tr>
+
   </thead>
   <tbody>
         <td><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/">SamuelEffiongJacob</td>
