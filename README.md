@@ -5,18 +5,18 @@
 - You can follow me on any of my social media handles below
 - Email me also below
 
-<table>
-  <thead>
+<table style="width:100%;height: 100%">
+  <thead style="width:100%;height: 100%">
        <tr class="table heading">
-        <th><img src="samueleffiong  linkind" alt="samueleffiong  linkind"></th>
-        <th><img src="samueleffiong twitter" alt="samueleffiong twitter"></th>
-        <th><img src="samueleffiong facebook" alt="samueleffiong facebook"></th>
-        <th><img src="samueleffiong  instergram" alt="samueleffiong  instergram"></th>
-        <th><img src="samueleffiong  instergram" alt="samueleffiong  instergram"></th>
-        <th><img src="samueleffiong  instergram" alt="samueleffiong  instergram"></th>
-        <th><img src="samueleffiong email" alt="samueleffiong email"></th>
-         <th><img src="samueleffiong email" alt="samueleffiong email"></th>
-         <th><img src="samueleffiong twitter" alt="samueleffiong twitter">OLD TWITTER</TH>
+        <th style="width: 35%"><img src="samueleffiong  linkind" alt="samueleffiong  linkind"></th>
+        <th style="width: 35%"><img src="samueleffiong twitter" alt="samueleffiong twitter" style="height:100%;width: 100%"></th>
+        <th style="width: 35%"><img src="samueleffiong facebook" alt="samueleffiong facebook" style="height:100%;width: 100%"></th>
+        <th style="width: 35%"><img src="samueleffiong  instergram" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
+        <th style="width: 35%"><img src="samueleffiong  instergram" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
+        <th style="width: 35%"><img src="samueleffiong  instergram" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
+        <th style="width: 35%"><img src="samueleffiong email" alt="samueleffiong email" style="height:100%;width: 100%"></th>
+         <th style="width: 35%"><img src="samueleffiong email" alt="samueleffiong email" style="height:100%;width: 100%"></th>
+         <th style="width: 35%"><img src="samueleffiong twitter" alt="samueleffiong twitter" style="height:100%;width: 100%">OLD TWITTER</TH>
       </tr>
   </thead>
   <tbody>
