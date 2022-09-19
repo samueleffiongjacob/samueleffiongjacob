@@ -13,19 +13,19 @@
 
         <th style="width: 35%"><img src="samueleffiong  twitter.png" style="height:100%;width: 100%"></th>
 
-        <th style="width: 35%"><img src="samueleffiong facebook.png" alt="samueleffiong facebook" style="height:100%;width: 100%"></th>
+        <th style="width: 35%"><img src="samueleffiong facebook.png" style="height:100%;width: 100%"></th>
 
-        <th style="width: 35%"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
+        <th style="width: 35%"><img src="samueleffiong  instergram.png" style="height:100%;width: 100%"></th>
 
-        <th style="width: 35%"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
+        <th style="width: 35%"><img src="samueleffiong  instergram.png" style="height:100%;width: 100%"></th>
 
-        <th style="width: 35%"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
+        <th style="width: 35%"><img src="samueleffiong  instergram.png"  style="height:100%;width: 100%"></th>
 
-        <th style="width: 35%"><img src="samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
+        <th style="width: 35%"><img src="samueleffiong email.png" style="height:100%;width: 100%"></th>
 
-         <th style="width: 35%"><img src="samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
+         <th style="width: 35%"><img src="samueleffiong email.png" style="height:100%;width: 100%"></th>
 
-         <th style="width: 35%"><img src="samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%">OLD TWITTER</th>
+         <th style="width: 35%"><img src="samueleffiong twitter.png" style="height:100%;width: 100%">OLD TWITTER</th>
       </tr>
 
   </thead>
