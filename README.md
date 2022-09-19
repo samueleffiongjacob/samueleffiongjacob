@@ -5,37 +5,34 @@
 - You can follow me on any of my social media handles below
 - Email me also below
 
+<h1 style="text-align: center;"> FOLLOW ME OR CHAT ME UP ON MY SOCIAL MEDIA  </h1>
 <table style="width:100%;height: 100%">
   <thead>
        <tr class="table heading">
         <th style="width: 35%"><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/"><img src="samueleffiong  linkind.png" alt="samueleffiong linkind" style="height:100%;width: 100%"></a></th>
-        <th style="width: 35%"><img src="samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%"></th>
-        <th style="width: 35%"><img src="samueleffiong facebook.png" alt="samueleffiong facebook"style="height:100%;width: 100%"></th>
-        <th style="width: 35%"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
-        <th style="width: 35%"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
-        <th style="width: 35%"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></th>
-        <th style="width: 35%"><img src="samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
-         <th style="width: 35%"><img src="samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
-         <th style="width: 35%"><img src="samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%">OLD TWITTER</th>
+        <th style="width: 35%"><a href="https://twitter.com/samueleffiong_"><img src="samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://www.facebook.com/samueleffiong.jacob/"><img src="samueleffiong facebook.png" alt="samueleffiong facebook" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://www.instagram.com/effiongsamuel/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong_official/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong0/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
+         <th style="width: 35%"><a href="https://twitter.com/SamuelEFFIONG01"><img src="samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%"></a> ^OLD TWITTER ~SUPPENDED ACCOUNT</th>
       </tr>
   </thead>
-  <tbody>
-        <td><a href="https://twitter.com/samueleffiong_">samueleffiong_</td>
-        <td><a href="https://www.facebook.com/samueleffiong.jacob/">SamuelEffiong</td>
-        <td><a href="https://www.instagram.com/effiongsamuel/">effiongsamuel</td>
-        <td><a href="https://www.instagram.com/samueleffiong_official/">samueleffiong_official</td>
-        <td><a href="https://www.instagram.com/samueleffiong0/">samueleffiong0</td>
-        <td>samueleffiongjacob@gmail.com</td>
-        <td>samueleffiong685@gmail.com</td>
-        <td><a href="https://twitter.com/SamuelEFFIONG01">SamuelEFFIONG01</td>
-      
-  </tbody>
 </table>
 
+<h1 style="text-align: center;"> CONTACT ME </h1>
+<table> 
+  <thead>
+      <th style="width: 35%"><img src="samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
+         <th style="width: 35%"><img src="samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
+  </thead>
+  <tbody>
+        <td>samueleffiongjacob@gmail.com</td>
+        <td>samueleffiong685@gmail.com</td>
+  </tbody>
+</table>
 <!---
 samueleffiongjacob/samueleffiongjacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 // OLD TWITTER ACCOUNT WITH GMAIL samueleffiongjacob@gmail.com
 --->
-
-<a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/"></a>
