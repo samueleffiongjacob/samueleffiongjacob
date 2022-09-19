@@ -9,7 +9,7 @@
   <thead style="width:100%;height: 100%">
        <tr class="table heading">
 
-        <th style="width: 35%"><img src="samueleffiong  linkind.png" style="height:100%;width: 100%"></th>
+        <th style="width: 35%"><img src="samueleffiong  linkind.png"></th>
 
         <th style="width: 35%"><img src="samueleffiong  twitter.png" style="height:100%;width: 100%"></th>
 
