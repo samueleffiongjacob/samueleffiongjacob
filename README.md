@@ -1,8 +1,8 @@
 - 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="samueleffiong  github.png" alt="samueleffiong github" style="height:2%;width: 2%"></a>
 - 🌱 I’m A DevOps & FullStack Software Engineer | Network Engineer | Data Scientist, Analyst & Researcher | Movie Actor | Sound, Media & Product Engineer | ICT consultant.
-<table style="width:50%;height: 50%">
+<table style="width:30%;height: 50%">
   <tr>
-  <th style="width: 35%"><img src="samueleffiong  workflow.jpg" alt="samueleffiong workflow" style="height:80%;width: 60%"></th>
+  <th style="width: 25%"><img src="samueleffiong  workflow.jpg" alt="samueleffiong workflow" style="height:80%;width: 40%"></th>
   </tr>
 </table>
 - 👀 I’m interested in developing new Technologies
