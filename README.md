@@ -1,5 +1,5 @@
-- 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="samueleffiong  github.png" alt="samueleffiong github" style="height:2%;width: 2%"></a>
-- 🌱 I’m A DevOps & FullStack Software Engineer | Network Engineer | Data Scientist, Analyst & Researcher | Movie Actor | Sound, Media & Product Engineer | ICT consultant.
+- 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="samueleffiong  github.png" alt="samueleffiong github" style="height:2%;width: 2%"></a> SAMUEL EFFIONG
+- 🌱 A DevOps & FullStack Software Engineer ✨| Network Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound, Media & Product Engineer ✨| ICT consultant.
 <table style="width:30%;height: 50%">
   <tr>
   <th style="width: 25%"><img src="samueleffiong  workflow.jpg" alt="samueleffiong workflow" style="height:80%;width: 40%"></th>
