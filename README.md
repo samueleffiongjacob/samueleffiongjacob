@@ -1,8 +1,9 @@
 - 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="samueleffiong  github.png" alt="samueleffiong github" style="height:2%;width: 2%"></a> SAMUEL EFFIONG
 - 🌱 A DevOps & FullStack Software Engineer ✨| Network Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound, Media & Product Engineer ✨| ICT consultant.
+<!---fist table image---->
 <table style="width:30%;height: 50%">
   <tr>
-  <th style="width: 25%"><img src="samueleffiong  workflow.jpg" alt="samueleffiong workflow" style="height:80%;width: 40%"></th>
+  <th style="width: 25%"><img src="assets\samueleffiong  workflow.jpg" alt="samueleffiong workflow" style="height:80%;width: 40%"></th>
   </tr>
 </table>
 - 👀 I’m interested in developing new Technologies
@@ -11,12 +12,12 @@
 <table style="width:100%;height: 100%">
   <thead>
        <tr class="table heading">
-        <th style="width: 35%"><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/"><img src="samueleffiong  linkind.png" alt="samueleffiong linkind" style="height:100%;width: 100%"></a></th>
-        <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong0/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
-        <th style="width: 35%"><a href="https://twitter.com/samueleffiong_"><img src="samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%"></a></th>
-        <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong_official/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
-        <th style="width: 35%"><a href="https://www.facebook.com/samueleffiong.jacob/"><img src="samueleffiong facebook.png" alt="samueleffiong facebook" style="height:100%;width: 100%"></a></th>
-        <th style="width: 35%"><a href="https://www.instagram.com/effiongsamuel/"><img src="samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/"><img src="assets\samueleffiong  linkind.png" alt="samueleffiong linkind" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong0/"><img src="assets\samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://twitter.com/samueleffiong_"><img src="assets\samueleffiong twitter.png" alt="samueleffiong twitter" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong_official/"><img src="assets\samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://www.facebook.com/samueleffiong.jacob/"><img src="assets\samueleffiong facebook.png" alt="samueleffiong facebook" style="height:100%;width: 100%"></a></th>
+        <th style="width: 35%"><a href="https://www.instagram.com/effiongsamuel/"><img src="assets\samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
       </tr>
   </thead>
 </table>
@@ -26,8 +27,8 @@
 <!--- new table--->
 <table> 
   <thead>
-      <th style="width: 35%"><img src="samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
-         <th style="width: 35%"><img src="samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
+      <th style="width: 35%"><img src="assets\samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
+         <th style="width: 35%"><img src="assets\samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
   </thead>
   <tbody>
         <td>samueleffiongjacob@gmail.com</td>
