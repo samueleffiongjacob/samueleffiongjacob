@@ -2,7 +2,7 @@
 - 🌱 I’m A DevOps & FullStack Software Engineer | Network Engineer | Data Scientist, Analyst & Researcher | Movie Actor | Sound, Media & Product Engineer | ICT consultant.
 <table style="width:50%;height: 50%">
   <tr>
-  <th style="width: 35%"><img src="samueleffiong  workflow.jpg" alt="samueleffiong workflow" style="height:40%;width: 50%"></th>
+  <th style="width: 35%"><img src="samueleffiong  workflow.jpg" alt="samueleffiong workflow" style="height:40%;width: 80%"></th>
   </tr>
 </table>
 - 👀 I’m interested in developing new Technologies
