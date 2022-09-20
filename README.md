@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="samueleffiong  github.png" alt="samueleffiong github" style="height:2%;width: 2%"></a> SAMUEL EFFIONG
+- 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="assets\samueleffiong  github.png" alt="samueleffiong github" style="height:2%;width: 2%"></a> SAMUEL EFFIONG
 - 🌱 A DevOps & FullStack Software Engineer ✨| Network Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound, Media & Product Engineer ✨| ICT consultant.
 <!---fist table image---->
 <table style="width:30%;height: 50%">
