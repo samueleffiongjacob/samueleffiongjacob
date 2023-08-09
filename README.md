@@ -49,8 +49,7 @@
 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Samueleffiong_official)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/506m3b)
-  [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
+
 <!-- <table style="width:100%;height: 100%">
   <thead>
   link to generate watapp
@@ -68,7 +67,7 @@
 
 ##  EMAIL ME 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueleffiongjacob@gmail.com?subject=[GitHub]%20Source:%20AM%20REACHING%20OUT%20TO%20YOU%20FROM%20YOUR%20GITHUB%20PAGE)    
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueleffiongjacob@gmail.com?subject=[GitHub]%20Source:%20AM%20REACHING%20OUT%20TO%20YOU%20FROM%20YOUR%20GITHUB%20PAGE) |
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueleffiong685@gmail.com?subject=[GitHub]%20Source:%20AM%20REACHING%20OUT%20TO%20YOU%20FROM%20YOUR%20GITHUB%20PAGE)  
 
 - 💞️ I’m looking to collaborate with u on your project ...
