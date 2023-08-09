@@ -3,7 +3,7 @@
 🌱 A DevOps & FullStack Software Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound, Media & Product Engineer ✨| ICT consultant.
 <!---fist table image---->
 
-![SAMUEL EFFIONG STATS](https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical)  ![samuel lang]( https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api/top-langs/?username=samueleffiongjacob&layout=compact)
+![SAMUEL EFFIONG STATS](https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical)    ![samuel lang]( https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api/top-langs/?username=samueleffiongjacob&layout=compact)
 
 - 👀 I’m interested in developing new Technologies
 - My Proficiency are :
@@ -34,8 +34,20 @@
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
   ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-<h1 style="text-align: center;"> FOLLOW ME OR CHAT ME UP ON MY SOCIAL MEDIA  </h1>
-<table style="width:100%;height: 100%">
+## FOLLOW ME OR CHAT ME UP ON MY SOCIAL MEDIA
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/samueleffiong0)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/samueleffiong_)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/samueleffiong_official/)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/samueleffiong.jacob/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/effiongsamuel/)
+
+## Message me
+
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Samueleffiong_official)
+
+<!-- <table style="width:100%;height: 100%">
   <thead>
        <tr class="table heading">
         <th style="width: 35%"><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/"><img src="assets\samueleffiong  linkind.png" alt="samueleffiong linkind" style="height:100%;width: 100%"></a></th>
@@ -46,7 +58,7 @@
         <th style="width: 35%"><a href="https://www.instagram.com/effiongsamuel/"><img src="assets\samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
       </tr>
   </thead>
-</table>
+</table> -->
 
 - 💞️ I’m looking to collaborate with u on your project ...
 
