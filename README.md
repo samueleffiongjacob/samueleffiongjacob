@@ -48,11 +48,13 @@
 ## Message me
 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Samueleffiong_official)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/506m3b)
   [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 <!-- <table style="width:100%;height: 100%">
   <thead>
+  link to generate watapp
+  https://wa.link/506m3b
        <tr class="table heading">
         <th style="width: 35%"><a href="https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/"><img src="assets\samueleffiong  linkind.png" alt="samueleffiong linkind" style="height:100%;width: 100%"></a></th>
         <th style="width: 35%"><a href="https://www.instagram.com/samueleffiong0/"><img src="assets\samueleffiong  instergram.png" alt="samueleffiong  instergram" style="height:100%;width: 100%"></a></th>
