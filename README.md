@@ -34,7 +34,7 @@
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
   ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-## FOLLOW ME OR CHAT ME UP ON MY SOCIAL MEDIA
+## FOLLOW ME ON MY SOCIAL MEDIA
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-effiong-jacob-9467a1175/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/samueleffiong0)
@@ -50,7 +50,7 @@
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Samueleffiong_official)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
   [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
-  []()
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 <!-- <table style="width:100%;height: 100%">
   <thead>
        <tr class="table heading">
@@ -64,20 +64,16 @@
   </thead>
 </table> -->
 
-- 💞️ I’m looking to collaborate with u on your project ...
+##  EMAIL ME 
 
-<h1 style="text-align: center;"> CONTACT ME </h1>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samueleffiongjacob@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samueleffiong685@gmail.com)
+
+- 💞️ I’m looking to collaborate with u on your project ...
+  
+
 <!--- new table--->
-<table>
-  <thead>
-      <th style="width: 35%"><img src="assets\samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
-         <th style="width: 35%"><img src="assets\samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
-  </thead>
-  <tbody>
-        <td> samueleffiongjacob@gmail.com </td>
-        <td> samueleffiong685@gmail.com</td>
-  </tbody>
-</table>
+
 <!---
 samueleffiongjacob/samueleffiongjacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
