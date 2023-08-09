@@ -1,13 +1,14 @@
 - 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="assets\samueleffiong  github.png" alt="samueleffiong github" style="height:2%;width: 2%"></a> SAMUEL EFFIONG
 - 🌱 A DevOps & FullStack Software Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound, Media & Product Engineer ✨| ICT consultant.
 <!---fist table image---->
-<table style="width:30%;height: 50%">
-  <tr>
-  <th style="width: 25%"><img src="assets\samueleffiong  workflow.jpg" alt="samueleffiong workflow" style="height:80%;width: 40%"></th>
-  </tr>
-</table>
-- 👀 I’m interested in developing new Technologies
+![SAMJEL EFFIONG GitHub stats](https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical)
+![SAMUEL TOP Langs](https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api/top-langs/?username=samueleffiongjacob&layout=compact)
 
+- 👀 I’m interested in developing new Technologies
+- My Proficiency are:
+
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  
 <h1 style="text-align: center;"> FOLLOW ME OR CHAT ME UP ON MY SOCIAL MEDIA  </h1>
 <table style="width:100%;height: 100%">
   <thead>
