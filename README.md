@@ -6,7 +6,6 @@
 
 - 👀 I’m interested in developing new Technologies
 - My Proficiency are:
-
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   
 <h1 style="text-align: center;"> FOLLOW ME OR CHAT ME UP ON MY SOCIAL MEDIA  </h1>
