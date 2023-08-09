@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [![SAMUEL EFFIONG GIT IMAGE](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samueleffiongjacob) SAMUEL EFFIONG
+6# 👋 Hi, I’m [![SAMUEL EFFIONG GIT IMAGE](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samueleffiongjacob) SAMUEL EFFIONG
 
 🌱 A DevOps & FullStack Software Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound, Media & Product Engineer ✨| ICT consultant.
 <!---fist table image---->
@@ -43,7 +43,7 @@
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/samueleffiong.jacob/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/effiongsamuel/)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@samueleffiong7502)
-  [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)]()
+  [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@effiongsamuel)
 
 ## Message me
 
