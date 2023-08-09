@@ -53,8 +53,8 @@
          <th style="width: 35%"><img src="assets\samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
   </thead>
   <tbody>
-        <td> <samueleffiongjacob@gmail.com> </td>
-        <td> <samueleffiong685@gmail.com> </td>
+        <td> samueleffiongjacob@gmail.com </td>
+        <td> samueleffiong685@gmail.com</td>
   </tbody>
 </table>
 <!---
