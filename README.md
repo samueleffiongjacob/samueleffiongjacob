@@ -66,8 +66,7 @@
 
 ##  EMAIL ME 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samueleffiongjacob@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samueleffiong685@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueleffiongjacob@gmail.com?subject=[GitHub]%20Source:%20AM%REACHING%20TO%20FROM%20YOUR%GITHUB%20PAGE)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueleffiong685@gmail.com?subject=[GitHub]%20Source:%20AM%REACHING%20TO%20FROM%20YOUR%GITHUB%20PAGE)
 
 - 💞️ I’m looking to collaborate with u on your project ...
   
