@@ -1,4 +1,4 @@
-6# 👋 Hi, I’m [![SAMUEL EFFIONG GIT IMAGE](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samueleffiongjacob) SAMUEL EFFIONG
+# 👋 Hi, I’m [![SAMUEL EFFIONG GIT IMAGE](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samueleffiongjacob) SAMUEL EFFIONG
 
 🌱 A DevOps & FullStack Software Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound, Media & Product Engineer ✨| ICT consultant.
 <!---fist table image---->
@@ -65,14 +65,13 @@
   </thead>
 </table> -->
 
-##  EMAIL ME 
+## EMAIL ME
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueleffiongjacob@gmail.com?subject=[GitHub]%20Source:%20AM%20REACHING%20OUT%20TO%20YOU%20FROM%20YOUR%20GITHUB%20PAGE) |
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueleffiong685@gmail.com?subject=[GitHub]%20Source:%20AM%20REACHING%20OUT%20TO%20YOU%20FROM%20YOUR%20GITHUB%20PAGE)  
 
 - 💞️ I’m looking to collaborate with u on your project ...
   
-
 <!--- new table--->
 
 <!---
