@@ -1,9 +1,11 @@
-- 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="assets\samueleffiong  github.png" alt="samueleffiong github" style="height:2%;width: 2%"></a> SAMUEL EFFIONG
+# 👋 Hi, I’m <a href = "https://github.com/samueleffiongjacob"><img src="assets\samueleffiong  github.png" alt="samueleffiong github" style="height:2%;width: 2%"></a> SAMUEL EFFIONG
+
 - 🌱 A DevOps & FullStack Software Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound, Media & Product Engineer ✨| ICT consultant.
 <!---fist table image---->
-<img align="left" width="47%" scr="https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical"/>
 
-<img align="left" width="47%" scr=" https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api/top-langs/?username=samueleffiongjacob&layout=compact" />
+![SAMUEL EFFIONG STATS](https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical){align=left width=47%}
+
+![samuel lang]( https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api/top-langs/?username=samueleffiongjacob&layout=compact){align=left width=47%}
 
 - 👀 I’m interested in developing new Technologies
 - My Proficiency are :
@@ -27,11 +29,6 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
-
-
-
-  
 <h1 style="text-align: center;"> FOLLOW ME OR CHAT ME UP ON MY SOCIAL MEDIA  </h1>
 <table style="width:100%;height: 100%">
   <thead>
@@ -47,9 +44,10 @@
 </table>
 
 - 💞️ I’m looking to collaborate with u on your project ...
+
 <h1 style="text-align: center;"> CONTACT ME </h1>
 <!--- new table--->
-<table> 
+<table>
   <thead>
       <th style="width: 35%"><img src="assets\samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
          <th style="width: 35%"><img src="assets\samueleffiong email.png" alt="samueleffiong email" style="height:100%;width: 100%"></th>
