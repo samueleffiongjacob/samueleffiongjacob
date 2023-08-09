@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [![assets/](samueleffiong  github.png)](https://github.com/samueleffiongjacob) SAMUEL EFFIONG
+# 👋 Hi, I’m [![SAMUEL EFFIONG GIT IMAGE]((https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white))](https://github.com/samueleffiongjacob) SAMUEL EFFIONG
 
 🌱 A DevOps & FullStack Software Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound, Media & Product Engineer ✨| ICT consultant.
 <!---fist table image---->
