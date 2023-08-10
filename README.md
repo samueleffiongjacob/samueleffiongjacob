@@ -5,7 +5,7 @@
 
 ![SAMUEL EFFIONG STATS](https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical)    ![samuel lang]( https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api/top-langs/?username=samueleffiongjacob&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=samueleffiongjacob&theme=dark)](https://git.io/streak-stats)
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samueleffiongjacob&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - 👀 I’m interested in developing new Technologies
 - My Proficiency are :
   
