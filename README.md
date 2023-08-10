@@ -12,7 +12,9 @@ I strengthened my skills with constant practice, Teaching others by sharing and 
 
 Being a diligent, hardworking, and result-oriented lad, I always strive hard towards achieving the best results on each project/task I lay my hands on and I am passionate about leveraging my diverse experience to solve challenging problems and create delightful experiences.  
 
-[![SAMUEL EFFIONG github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samueleffiongjacob&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![SAMUEL EFFIONG github activity graph](https://github-readme-activity-graph-samueleffiongjacob.vercel.app/graph?username=samueleffiongjacob&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 - 👀 I’m interested in developing new Technologies
 - My Proficiency are :
   
