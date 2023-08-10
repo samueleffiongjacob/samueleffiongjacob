@@ -4,6 +4,7 @@
 <!---fist table image---->
 
 ![SAMUEL EFFIONG STATS](https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical)    ![samuel lang]( https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api/top-langs/?username=samueleffiongjacob&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=samueleffiongjacob&theme=dark)](https://git.io/streak-stats)
 
 - 👀 I’m interested in developing new Technologies
 - My Proficiency are :
