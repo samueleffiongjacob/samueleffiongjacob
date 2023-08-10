@@ -4,7 +4,7 @@
 <!---fist table image---->
 A professional and talented Full-Stack Software and  DevOps Engineer from Nigeria. A current student of statistics Department, FEDERAL University Technology minna, Niger State Nigeria.
 
-![SAMUEL EFFIONG STATS](https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical)    ![samuel lang]( https://github-readme-stats-khucr7l2q-samueleffiongjacob.vercel.app/api/top-langs/?username=samueleffiongjacob&layout=compact)  
+![SAMUEL EFFIONG STATS1](http://github-readme-stats-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical) ![samuel lang](http://github-readme-stats-samueleffiongjacob.vercel.app/api/top-langs/?username=samueleffiongjacob&layout=compact)  
 
 I strengthened my skills with constant practice, Teaching others by sharing and contributing to the IT community is something I enjoy doing, and it has become an important aspect of me and I enjoy sharing what I've learned.  
 
