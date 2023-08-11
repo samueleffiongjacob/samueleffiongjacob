@@ -2,15 +2,15 @@
 
 🌱 A DevOps & FullStack Software Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound, Media & Product Engineer ✨| ICT consultant.
 <!---fist table image---->
-A professional and talented Full-Stack Software and  DevOps Engineer from Nigeria. A current student of statistics Department, FEDERAL University Technology minna, Niger State Nigeria.
+A professional and talented Full-Stack Software and  DevOps Engineer from Nigeria. A current student of [FEDERAL University Technology minna](https://futminna.edu.ng),  [Department of Statistics](https://futminna.edu.ng/sps/statistics/), Niger State Nigeria.
 
 ![SAMUEL EFFIONG STATS1](http://github-readme-stats-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical) ![samuel lang](http://github-readme-stats-samueleffiongjacob.vercel.app/api/top-langs/?username=samueleffiongjacob&layout=compact)  
 
-I strengthened my skills with constant practice, Teaching others by sharing and contributing to the IT community is something I enjoy doing, and it has become an important aspect of me and I enjoy sharing what I've learned.  
+I strengthened my skills with constant practice, Teaching others by sharing and contributing to the IT community is something I enjoy doing, and it has become an essential aspect of me I enjoy sharing what I have learned.  
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=samueleffiongjacob&theme=dark)](https://git.io/streak-stats)  
 
-Being a diligent, hardworking, and result-oriented lad, I always strive hard towards achieving the best results on each project/task I lay my hands on and I am passionate about leveraging my diverse experience to solve challenging problems and create delightful experiences.  
+Being a diligent, hardworking, and result-oriented lad, I always strive hard to achieve the best results on each project/task I lay my hands on and I am passionate about leveraging my diverse experience to solve challenging problems and create delightful experiences.  
 
 [![SAMUEL EFFIONG github activity graph](https://github-readme-activity-graph-samueleffiongjacob.vercel.app/graph?username=samueleffiongjacob&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
