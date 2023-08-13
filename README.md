@@ -84,7 +84,8 @@ Being a diligent, hardworking, and result-oriented lad, I always strive hard to 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueleffiong685@gmail.com?subject=[GitHub]%20Source:%20AM%20REACHING%20OUT%20TO%20YOU%20FROM%20YOUR%20GITHUB%20PAGE)  
 
 - 💞️ I’m looking to collaborate with u on your project ...
-  
+<!---GET MORE INTRESTING BADGE FROM LINK BELOW--->
+  <!---https://github.com/Ileriayo/markdown-badges--->
 <!--- new table--->
 
 <!---
