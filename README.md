@@ -1,6 +1,6 @@
 # 👋 Hi, I’m [![SAMUEL EFFIONG GIT IMAGE](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samueleffiongjacob) SAMUEL EFFIONG
 
-🌱 A DevOps & FullStack Software Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound, Media & Product Engineer ✨| ICT consultant.
+🌱 A Software and DevOps Engineer ✨| Data Scientist, Analyst & Researcher ✨| Movie Actor ✨| Sound and Media Engineer ✨| ICT consultant.
 <!---fist table image---->
 A professional and talented Full-Stack Software and  DevOps Engineer from Nigeria. A current student of [FEDERAL University Technology minna](https://futminna.edu.ng),  [Department of Statistics](https://futminna.edu.ng/sps/statistics/), Niger State Nigeria.
 
