@@ -5,12 +5,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=samueleffiongjacob&theme=dark)](https://git.io/streak-stats)
 <!---fist table image---->
 A professional and talented Software and  DevOps Engineer from Nigeria. A current student of [FEDERAL University Technology minna](https://futminna.edu.ng),  [Department of Statistics](https://futminna.edu.ng/sps/statistics/), Niger State Nigeria.
-
-![SAMUEL EFFIONG STATS1](http://github-readme-stats-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical) ![samuel lang](http://github-readme-stats-samueleffiongjacob.vercel.app/api/top-langs/?username=samueleffiongjacob&layout=compact)
-I strengthened my skills with constant practice, Teaching others by sharing and contributing to the IT community is something I enjoy doing, and it has become an essential aspect of me I enjoy sharing what I have learned.  
-
 [![samuel lang](https://raw.githubusercontent.com/samueleffiongjacob/samueleffiongjacob/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  [![samuel lang](https://raw.githubusercontent.com/samueleffiongjacob/samueleffiongjacob/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![samuel lang](https://raw.githubusercontent.com/samueleffiongjacob/samueleffiongjacob/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![samuel lang](https://raw.githubusercontent.com/samueleffiongjacob/samueleffiongjacob/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+I strengthened my skills with constant practice, Teaching others by sharing and contributing to the IT community is something I enjoy doing, and it has become an essential aspect of me I enjoy sharing what I have learned.  
+
+![SAMUEL EFFIONG STATS1](http://github-readme-stats-samueleffiongjacob.vercel.app/api?username=samueleffiongjacob&show_icons=true&theme=radical)
 
 Being a diligent, hardworking, and result-oriented lad, I always strive hard to achieve the best results on each project/task I lay my hands on and I am passionate about leveraging my diverse experience to solve challenging problems and create delightful experiences.  
 
